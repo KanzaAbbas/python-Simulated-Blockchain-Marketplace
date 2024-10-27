@@ -1,6 +1,6 @@
 # python-Simulated-Blockchain-Marketplace
 <br>
-## Overview
+
 This project simulates a blockchain marketplace using Python. It includes components such as blockchain, transactions, blocks, smart contracts, and users. The system allows for the creation and validation of transactions within a simulated environment.
 
 ## Features
